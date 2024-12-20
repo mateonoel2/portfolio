@@ -1,0 +1,9 @@
+{
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "single",
+			"trailingCommas": "es5",
+			"lineWidth": 120
+		}
+	}
+}
